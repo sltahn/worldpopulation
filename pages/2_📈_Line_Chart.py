@@ -1,7 +1,7 @@
 import pandas as pd
 from bokeh.plotting import figure, show
 from bokeh.models import ColumnDataSource, HoverTool
-from bokeh.palettes import Spectral6
+from bokeh.palettes import Spectral
 import streamlit as st
 
 st.set_page_config(page_title="Line Chart", page_icon="📈")
