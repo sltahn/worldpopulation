@@ -1,6 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-plotly
-bokeh==2.4.3
